@@ -15,7 +15,7 @@ export default function Intro() {
           </p>
         </div>
         <div className="intro-image">
-          <img src="/img/profile-front.jpeg" alt="Mohammad Ali" />
+          <img src="https://i.ibb.co/S48pKcCh/profile-front.jpg" alt="Mohammad Ali" />
         </div>
       </div>
     </section>

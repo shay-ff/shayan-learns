@@ -16,15 +16,14 @@ const config: Config = {
   // Optional: add trailingSlash to avoid GitHub Pages redirect issues
   trailingSlash: false,
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://shay-ff.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
-
+  baseUrl: '/shayan-learns/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'shay-ff', // Usually your GitHub org/user name.
-  projectName: 'shayan-learn', // Usually your repo name.
+  projectName: 'shayan-learn.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

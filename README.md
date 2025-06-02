@@ -1,4 +1,4 @@
-# Thanks for stoppy by!
+# Thanks for stopping by!
 
 A digital notebook!
 
