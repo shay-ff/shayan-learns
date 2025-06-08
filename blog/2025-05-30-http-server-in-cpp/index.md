@@ -6,14 +6,12 @@ date: 2025-05-30
 authors: [Mohammad]
 ---
 
-
 Building an HTTP Server from Scratch in C++
 ===========================================
 
 Most of us start our web journey with frameworks like Flask, Express, or Spring Boot. But at some point, a question hits you: what if I had to build all this from scratch? No abstractions. No libraries. Just sockets and raw C++. That's exactly what I set out to do.
 
 ---
-
 Why Build It?
 -------------
 
@@ -159,4 +157,5 @@ Conclusion
 
 This project helped me demystify HTTP and web servers in general. Going low-level gives you insights that high-level frameworks hide. Highly recommended as a weekend project if you're into networks or systems programming.
 
-Thanks for reading!
+Thanks for reading!  
+You can find the implementation here: [Github Repo.](https://github.com/shay-ff/http-server)
