@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshayan_learn=self.webpackChunkshayan_learn||[]).push([[65],{6047:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/shayan-learns/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

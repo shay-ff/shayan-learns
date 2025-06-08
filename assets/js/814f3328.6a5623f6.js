@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshayan_learn=self.webpackChunkshayan_learn||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Building an HTTP Server from Scratch in C++","permalink":"/shayan-learns/blog/http-server-in-cpp","unlisted":false,"date":"2025-05-30T00:00:00.000Z"}]}')}}]);
