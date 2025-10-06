@@ -16,10 +16,10 @@ const config: Config = {
   // Optional: add trailingSlash to avoid GitHub Pages redirect issues
   trailingSlash: false,
   // Set the production url of your site here
-  url: 'https://shay-ff.github.io',
+  url: 'https://shayan-learns.vercel.app/', // Update this with your actual Vercel domain
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/shayan-learns/',
+  // For Vercel deployment, use root path
+  baseUrl: '/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'shay-ff', // Usually your GitHub org/user name.
