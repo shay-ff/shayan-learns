@@ -1,26 +1,37 @@
-# Thanks for stopping by!
+# Hello!
 
-A digital notebook!
+A digital notebook where I document everything I learn. Built with Docusaurus.
 
-## Installation
+## Quick Start
+
 ```bash
+# Install dependencies
 npm install
+
+# Start development server
+npm start
 ```
 
-## Local Development
+Visit `http://localhost:3000` to see the site.
 
-```bash
-npm run start
-```
+## Scripts
 
-## Build
+- `npm start` - Start development server
+- `npm run build` - Build for production
+- `npm run serve` - Serve production build locally
+- `npm run deploy` - Deploy to GitHub Pages
 
-```bash
-npm run build
-```
+## Writing
 
-## Deployment
+Blog posts go in the `blog/` directory. Each post should be in its own folder with an `index.md` file.
 
-```bash
-npm run deploy
-```
+## Tech Stack
+
+- [Docusaurus](https://docusaurus.io/) - Static site generator
+- TypeScript
+- React
+- Deployed on [Vercel](https://vercel.com/)
+
+---
+
+_Everything I learn, I write here._

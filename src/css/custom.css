@@ -31,3 +31,47 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Mobile-specific improvements */
+@media screen and (max-width: 768px) {
+  /* Improve button touch targets */
+  .button {
+    min-height: 44px;
+    padding: 0.75rem 1.5rem;
+  }
+  
+  /* Better spacing for mobile */
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  /* Improve navbar on mobile */
+  .navbar__title {
+    font-size: 1.1rem;
+  }
+  
+  /* Better blog post spacing on mobile */
+  .markdown > h1,
+  .markdown > h2,
+  .markdown > h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* Improve code block readability on mobile */
+  .prism-code {
+    font-size: 0.85rem;
+  }
+}
+
+/* Improve touch targets for all interactive elements */
+@media (hover: none) and (pointer: coarse) {
+  .navbar__link,
+  .footer__link-item,
+  .pagination-nav__link {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+}

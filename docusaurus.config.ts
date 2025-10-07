@@ -79,7 +79,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: '',
+      title: 'Hello!',
       logo: {
         alt: 'My Site Logo',
         src: 'img/site-icon.png', // Path to your logo image
@@ -97,11 +97,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Projects',
           items: [
             {
-              label: 'Projects',
-              to: 'http://github.com/shay-ff?tab=repositories',
+              label: 'GitHub Repos',
+              href: 'https://github.com/shay-ff?tab=repositories',
             },
           ],
         },
